@@ -1,0 +1,39 @@
+39, 1001
+Gao,  Ru-Shan, Troy Thornberry, Laurel Watts, Steven Ciciora
+NOAA ESRL CSD
+Fire temperature from NOAA-Met Twin Otter
+FIREX-AQ 2019
+1, 1
+2019, 08, 03,  2020, 04, 07
+0
+UTC,  sec
+6
+1, 1, 1, 1, 1, 1
+-999, -999, -999, -999, -999, -999
+Latitude, degrees (fire location)
+Longitude, degrees (fire location)
+Temperature, °C (fire temperature)
+Pointing_angle, degrees (Positive on the port side)
+AGL, meters above ground
+Footprint_diameter, meters on ground
+1
+Final data
+18
+PI_CONTACT_INFO: 325 Broadway R/CSD6,  Boulder,  CO 80305; rushan.gao@noaa.gov, troy.thornberry@noaa.gov
+PLATFORM: N46RF Twin Otter (NOAA-MET Twin Otter)
+LOCATION: Western US
+ASSOCIATED_DATA: SWIR and MWIR maps in PNG format
+INSTRUMENT_INFO: The NightFOX UAS remote-sensing payload
+DATA_INFO: Sensor FOV is 1°. The corresponding footprint on ground depends on the sensor pointing angle and aircraft flight altitude (AGL)
+UNCERTAINTY: Pixel temperature: 50°C; Latitude: 0.0003 deg; Longitude: 0.0004 deg at 40° latitude
+ULOD_FLAG: 999999
+ULOD_VALUE: 1500°C
+LLOD_FLAG: 25
+LLOD_VALUE: 300°C
+DM_CONTACT_INFO: Ken Aikin; email:Kenneth.C.Aikin@noaa.gov
+PROJECT_INFO: Fire Influence on Regional to Global Environments and Air Quality (FIREX-AQ)
+STIPULATIONS_ON_USE: None
+OTHER_COMMENTS: Wavelength band for fire temperature sensing: 3925 – 3995 nm
+REVISION: R0
+R0: Final Data
+UTC,Latitude,Longitude,Temperature,Pointing_angle,AGL,Footprint_diameter85170.961,44.2614,-115.1650,337,12,1724,3185171.926,44.2622,-115.1647,328,14,1724,3185172.330,44.2610,-115.1624,344,6,1724,3086019.326,44.2619,-115.1615,345,4,1754,3186022.162,44.2635,-115.1643,333,-1,1754,3186022.609,44.2619,-115.1642,352,5,1754,3186022.630,44.2635,-115.1647,381,-1,1754,3186129.170,44.2614,-115.1629,338,26,1926,4086393.788,44.2626,-115.1652,337,-10,1644,3086393.811,44.2610,-115.1652,331,-16,1644,31
